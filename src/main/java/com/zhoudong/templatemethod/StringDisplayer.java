@@ -1,4 +1,4 @@
-package com.zhoudong.adapter.templatemethod;
+package com.zhoudong.templatemethod;
 
 public class StringDisplayer extends AbstractDisplayer {
 
