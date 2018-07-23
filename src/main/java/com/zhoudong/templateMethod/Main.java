@@ -1,4 +1,4 @@
-package com.zhoudong.templatemethod;
+package com.zhoudong.templateMethod;
 
 /**
  * 父类定义流程具体实现模板，具体实现交由子类
