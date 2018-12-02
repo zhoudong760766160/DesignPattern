@@ -1,5 +1,8 @@
 package com.zhoudong.decorator;
 
+/**
+ * @author zhoudong
+ */
 public class StringDisplay extends Display {
 	
 	private String str;
